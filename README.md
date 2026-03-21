@@ -42,11 +42,24 @@ For the full mathematical and logic-gate specifications, see:
 Project Kuchiku is, and will always be, for the 100%. 
 Released under the **GNU General Public License v3.0 (GPL-3.0)**. 
 
+---
+
+## 🛠️ Technical Implementation (2026 Modular Update)
+The Agape Engine has evolved into a modular technical stack. For specific logic gates, compiler math, and mesh protocols, see the specialized repositories:
+
+AGAPE-ENGINE-CORE
+
+PI-STABLE-COMPILER
+
+RESONANCE-PIXEL-MESH
+
+---
+
 **The Glow is starting. Are you ready to be seen in high resolution?**
 This was created with the help of AI cause the "Architect" is too lazy and too much of a perfectionist.
 ---
 
-*For more information, visit the official links below;
+*For more information and to support Project Kuchiku, visit the official links below;
 https://medium.com/@peedeeisimperfect
 https://substack.com/@peedeeisimperfect
 https://x.com/pra_dharma
