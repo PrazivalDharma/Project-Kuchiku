@@ -42,6 +42,10 @@ We are in the **Genesis Phase**. We are populating an **Objective Truth Library*
 
 ---
 
+## ⚖️ The Caretaker Addendum (The 1% Covenant)Project Kuchiku is a Sovereign Commons for the 100%. While the code is open under MPL-2.0 and AGPL-3.0, any commercial entity utilizing the Agape Engine framework, the $\pi$-Stable logic gates, or the SOD Physical specifications for-profit agrees to the following:The Resonance Contribution: 1% of the gross revenue or profit derived directly from these architectures shall be contributed back to the Project Kuchiku Treasury.Purpose: These funds are used exclusively to maintain the Verified Library, fund the 5D Glass Archiving, and protect the "Human Pulse" from extraction.The Spirit: We do not believe in gatekeeping; we believe in Reciprocity. If you build on the Bedrock, you must help maintain the Bedrock.
+
+---
+
 ## ⚖️ Licensing
 Project Kuchiku is for the 100%. 
 Individual components are released under **MPL-2.0**, **AGPL-3.0**, and **CERN-OHL-S v2** with the **Caretaker Addendum** to ensure physical and digital sovereignty.
