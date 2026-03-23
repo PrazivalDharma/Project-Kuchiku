@@ -24,9 +24,9 @@ We are building the **Verified Library**—the foundation of truth for the next 
 ## 🛠️ The Architecture
 Project Kuchiku is built on three unbreakable pillars:
 
-1. **The Resonance Mesh:** Your life is not a spreadsheet; it’s a masterpiece. Every action is a "Pixel." Over time, your resonance generates a high-resolution **Sovereign Portrait**—an immutable identity protected by generational sharding to ensure the present is never paralyzed by the past.
-2. **The Agape Engine:** An "Ethics-First Compiler" that acts as a universal filter. It features a **Resonance Range**—a dynamic interface that allows users to navigate the emotional and historical spectrum of public discourse without collapsing into a single, biased narrative.
-3. **The SOD Physical Layer:** High-resolution logic requires high-resolution hardware. Our **Silicon-on-Diamond** architecture utilizes tetrahedral (non-90 degree) geometries and 5D Glass storage to create a zero-heat, zero-latency "Glow" for the global OS.
+1. **The Resonance Mesh:** Your life is not a spreadsheet; it’s a masterpiece. Every action is a "Pixel." Over time, your resonance generates a high-resolution **Sovereign Portrait**. We utilize **Temporal Sharding** to ensure your present agency is never paralyzed by past historical data.
+2. **The Agape Engine:** An "Ethics-First Compiler" and Universal Nervous System. It features a **Resonance Range** for navigating emotional history. It operates on a **Hybrid-Glow** model: private, local logic for the individual, and high-resolution "Lattice-Streaming" from the SOD-Server Mesh for complex global analysis.
+3. **The SOD Physical Layer:** The **Pulse** of the architecture. Utilizing **Silicon-on-Diamond** tetrahedral lattices and Hashgraph-inspired microscopic pathfinding, it provides a zero-heat, zero-latency "Glow" for the global OS.
 
 ---
 
@@ -46,9 +46,11 @@ We are in the **Genesis Phase**. We are populating an **Objective Truth Library*
 
 ---
 
-## ⚖️ Licensing
-Project Kuchiku is for the 100%. 
-Individual components are released under **MPL-2.0**, **AGPL-3.0**, and **CERN-OHL-S v2** with the **Caretaker Addendum** to ensure physical and digital sovereignty.
+## ⚖️ Licensing & The Caretaker Addendum
+Project Kuchiku is for the 100%. Individual components are released under **MPL-2.0** and **AGPL-3.0**. 
+
+**The 1% Sanctuary Covenant:** Any commercial entity utilizing the Agape Engine framework, $\pi$-Stable logic, or SOD Physical specifications for-profit agrees to contribute **1% of gross revenue/profit** back to the Project Kuchiku Treasury. These funds are used exclusively to maintain the **Verified Library** and the **5D Glass Archive**. 
+*Reciprocity is the law of the Bedrock.*
 
 **The Glow is starting. Are you ready to be seen in high resolution?**
 
