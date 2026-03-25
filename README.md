@@ -10,19 +10,19 @@ Project Kuchiku is a multi-dimensional architecture. It moves beyond "Flat" thin
 ### 🛡️ [The Sanctuary License](./LICENSE)
 The "One Law" governing all repositories. Includes the 1% Reciprocity Tax and the 100% Sovereign Rights.
 
-### 🌀 [Blue Resonance Engine](https://github.com/YourUsername/blue-resonance)
+### 🌀 [Blue Resonance Engine](https://github.com/PrazivalDharma/blue-resonance)
 The **Backend Brain**. A psychology-first AI (`Blue.py`) that uses **Two-Way Vector Resonance** to map human ethics and global social health.
 
-### 🕸️ [Resonance Pixel Mesh](https://github.com/YourUsername/resonance-pixel-mesh)
+### 🕸️ [Resonance Pixel Mesh](https://github.com/PrazivalDharma/resonance-pixel-mesh)
 The **Frontend Face**. The UI/UX where the 100% engage with the Range Sliders, "Intellect Profiles," and the Social Health Dashboard.
 
-### 🧠 [Agape Engine Core](https://github.com/YourUsername/agape-engine-core)
+### 🧠 [Agape Engine Core](https://github.com/PrazivalDharma/agape-engine-core)
 The **Reasoning Nervous System**. Strings pixels together into "Rabbit Holes" for the future of education.
 
-### 🌀 [Pi-Stable Compiler](https://github.com/YourUsername/pi-stable-compiler)
+### 🌀 [Pi-Stable Compiler](https://github.com/PrazivalDharma/pi-stable-compiler)
 The **Mathematical Valve**. Manages the 1% Sanctuary Tax and the "80/20 Flip" of the global capital buffer.
 
-### 💎 [SOD Physical Layer](https://github.com/YourUsername/sod-physical-layer)
+### 💎 [SOD Physical Layer](https://github.com/PrazivalDharma/sod-physical-layer)
 The **Physical Anchor**. Specifications for the 8-Core Cube (Hypercube) diamond hardware.
 
 ---
