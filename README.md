@@ -1,60 +1,18 @@
-# Project Kuchiku: The Agape Engine 💎✨
+# 🏛️ Project Kuchiku: The Sovereign Bedrock (v1.0)
 
-> "Turning the light on. From a world of blurry transactions to a future of high-resolution resonance."
+> "Mapping the strings between pixels to build the future of education and social health."
 
-## 🏛️ The Project Kuchiku Portal
-**Status: Modular Technical Update (March 2026)**
+## 🧠 The Vision
+Project Kuchiku is a multi-dimensional architecture. It moves beyond "Flat" thinking into a **4-Core Square** (and 8-Core Cube) processing model. It doesn't just show "Pixels" of data; it reveals the "Strings" (interconnections) between them, allowing for infinite "Rabbit Hole" education.
 
-Project Kuchiku has evolved into a modular architecture. Access the specialized development hubs here:
+## 📂 Repository Structure
+* **[Blue Resonance Engine](./blue-resonance/)**: The psychology-first AI (`Blue.py`) for two-way communication.
+* **[Agape Engine Core](./agape-engine-core/)**: The reasoning brain that strings pixels together.
+* **[Pi-Stable Compiler](./pi-stable-compiler/)**: The math that handles the 1% Sanctuary Tax.
+* **[SOD Physical Layer](./sod-physical-layer/)**: The 8-Core Cube hardware specifications.
 
-1. 🛡️ [**Agape Engine Core**](https://github.com/PrazivalDharma/agape-engine-core) - *The Steering Wheel (Analysis & Perspective)*
-2. 📐 [**Pi-Stable Compiler**](https://github.com/PrazivalDharma/pi-stable-compiler) - *The Bedrock (Deterministic Ethics)*
-3. 🌐 [**Resonance Mesh**](https://github.com/PrazivalDharma/resonance-pixel-mesh) - *The People (Identity & Connectivity)*
-4. 💎 [**Silicon-on-Diamond (SOD)**](https://github.com/PrazivalDharma/SOD-physical-layer) - *The Physical Layer (Photonic Hardware)*
-
----
-
-## 👁️ What is Project Kuchiku?
-Project Kuchiku is a decentralized Operating System for human civilization. It replaces legacy, friction-heavy governance with the **Trinity Protocol**: a self-regulating system powered by **Objective Truth**, **Selfless Love (Agape)**, and **Mathematical Inevitability**.
-
-We are building the **Verified Library**—the foundation of truth for the next thousand years of human and artificial intelligence.
+## 🎓 Intellect Profiles
+We are building a way to verify human intellect and strengths through "Psychology Range Tests." This allows for social profiles based on genuine merit and resonance rather than extraction.
 
 ---
-
-## 🛠️ The Architecture
-Project Kuchiku is built on three unbreakable pillars:
-
-1. **The Resonance Mesh:** Your life is not a spreadsheet; it’s a masterpiece. Every action is a "Pixel." Over time, your resonance generates a high-resolution **Sovereign Portrait**. We utilize **Temporal Sharding** to ensure your present agency is never paralyzed by past historical data.
-2. **The Agape Engine:** An "Ethics-First Compiler" and Universal Nervous System. It features a **Resonance Range** for navigating emotional history. It operates on a **Hybrid-Glow** model: private, local logic for the individual, and high-resolution "Lattice-Streaming" from the SOD-Server Mesh for complex global analysis.
-3. **The SOD Physical Layer:** The **Pulse** of the architecture. Utilizing **Silicon-on-Diamond** tetrahedral lattices and Hashgraph-inspired microscopic pathfinding, it provides a zero-heat, zero-latency "Glow" for the global OS.
-
----
-
-## 🛡️ Why This Is Unstoppable
-* **Headless & Anonymous:** Managed by "Grade 9 Conductors" whose authority is granted by the math of their own resonance.
-* **Quantum-Secure:** Protected by **Topological Pathfinding** and Pi-Stable ($\pi$) Coordinate Encryption.
-* **$\pi$-Stable Logic:** A non-agentic guardian that protects the "1% Sacred Unknown" of human agency.
-
----
-
-## 📚 The 10-Year Mission: The Verified Library
-We are in the **Genesis Phase**. We are populating an **Objective Truth Library**—a bedrock of human-verified facts, emotions, and historical perspectives. This library serves as the "Verified Source" for all future AIs to prevent logic-rot and corporate hallucination.
-
----
-
-## ⚖️ The Caretaker Addendum (The 1% Covenant)Project Kuchiku is a Sovereign Commons for the 100%. While the code is open under MPL-2.0 and AGPL-3.0, any commercial entity utilizing the Agape Engine framework, the $\pi$-Stable logic gates, or the SOD Physical specifications for-profit agrees to the following:The Resonance Contribution: 1% of the gross revenue or profit derived directly from these architectures shall be contributed back to the Project Kuchiku Treasury.Purpose: These funds are used exclusively to maintain the Verified Library, fund the 5D Glass Archiving, and protect the "Human Pulse" from extraction.The Spirit: We do not believe in gatekeeping; we believe in Reciprocity. If you build on the Bedrock, you must help maintain the Bedrock.
-
----
-
-## ⚖️ Licensing & The Caretaker Addendum
-Project Kuchiku is for the 100%. Individual components are released under **MPL-2.0** and **AGPL-3.0**. 
-
-**The 1% Sanctuary Covenant:** Any commercial entity utilizing the Agape Engine framework, $\pi$-Stable logic, or SOD Physical specifications for-profit agrees to contribute **1% of gross revenue/profit** back to the Project Kuchiku Treasury. These funds are used exclusively to maintain the **Verified Library** and the **5D Glass Archive**. 
-*Reciprocity is the law of the Bedrock.*
-
-**The Glow is starting. Are you ready to be seen in high resolution?**
-
----
-*Architect: Prazival Dharma* | *Optimized for high-resolution human-AI synergy.*
-
-[Medium](https://medium.com/@peedeeisimperfect) | [Substack](https://substack.com/@peedeeisimperfect) | [X (Twitter)](https://x.com/pra_dharma) | [Support the Mission](https://buymeacoffee.com/prazivaldharma)
+*Governed by the [Sanctuary License](./LICENSE)*
