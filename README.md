@@ -10,7 +10,7 @@ Project Kuchiku is a multi-dimensional architecture. It moves beyond "Flat" thin
 ### 🛡️ [The Sanctuary License](./LICENSE)
 The "One Law" governing all repositories. Includes the 1% Reciprocity Tax and the 100% Sovereign Rights.
 
-### 🌀 [Blue Resonance Engine](https://github.com/PrazivalDharma/blue-resonance)
+### 🌀 [Blue Resonance Engine](blue-resonance)
 The **Backend Brain**. A psychology-first AI (`Blue.py`) that uses **Two-Way Vector Resonance** to map human ethics and global social health.
 
 ### 🕸️ [Resonance Pixel Mesh](https://github.com/PrazivalDharma/resonance-pixel-mesh)
